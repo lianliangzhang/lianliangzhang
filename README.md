@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lianliangzhang
-- 👀 I’m interested in IT technologies 
-- 🌱 I’m currently learning Cloud, Retail domain knowledge.
 - 💞️ I’m looking to collaborate on architecture, code design etc.
 - 📫 How to reach me lianliang.zhang@loreal.com
 
